@@ -1,4 +1,4 @@
-package ITicket;
+package com.ITicket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
